@@ -1,5 +1,9 @@
 # Live Language Translation Device
 
+##Demonstration Link:
+
+https://youtu.be/todQIdqSozo
+
 ## Abstract
 
 The Live Language Translation Device is a revolutionary tool designed to facilitate real-time language translation. It enables users to record their voice and receive instant translations into a different language. This device proves to be invaluable for travelers visiting countries where they are not fluent in the local language, allowing seamless communication with locals, seeking directions, and understanding tour guides. The device incorporates a two-way communication feature, ensuring smooth conversations without the need to wait for individual phrases or sentences to be translated. Additionally, it can function offline, providing essential translation support even in situations with limited internet connectivity.
